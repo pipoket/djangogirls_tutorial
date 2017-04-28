@@ -25,7 +25,7 @@ SECRET_KEY = '&d64!jv=cpm@(st0vdyb73^i1+@0^!ix5*$lm6vyzyz6-bla(+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["pipoket.pythonanywhere.com"]
 
 
 # Application definition
